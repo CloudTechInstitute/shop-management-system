@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  },
+  "dependencies": {
+    "chart.js": "^4.4.3",
+    "font-awesome": "^4.7.0"
+  }
+}
